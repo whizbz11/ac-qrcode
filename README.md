@@ -68,5 +68,5 @@ includeMargin | boolean      | false
 
 ### 5. CHANGLOG
 
-
+* [0.0.2-修改说明文档](https://github.com/tinper-acs/ac-qrcode/releases/tag/0.0.2)
 * [0.0.1-初次版本实现、增加示例](https://github.com/tinper-acs/ac-qrcode/releases/tag/0.0.1)

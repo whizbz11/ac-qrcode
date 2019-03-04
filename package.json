@@ -1,6 +1,6 @@
 {
   "name": "ac-qrcodes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "二维码组件",
   "keywords": [
     "react",
